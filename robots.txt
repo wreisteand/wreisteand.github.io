@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wreisteand.github.io/sitemap.wreisteand.gz
+Sitemap: https://wreisteand.github.io/app/sitemap.wreisteand.gz
+Sitemap: https://wreisteand.github.io/assets/sitemap.wreisteand.gz
+Sitemap: https://wreisteand.github.io/css/sitemap.wreisteand.gz
+Sitemap: https://wreisteand.github.io/data/sitemap.wreisteand.gz
+Sitemap: https://wreisteand.github.io/includes/sitemap.wreisteand.gz
+Sitemap: https://wreisteand.github.io/item/sitemap.wreisteand.gz
+Sitemap: https://wreisteand.github.io/src/sitemap.wreisteand.gz
